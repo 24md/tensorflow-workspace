@@ -143,7 +143,7 @@ Swap the `nginx` configuration.
 
 ```console
 # rm -f nginx/nginx.conf
-# nano nginx.con
+# nano nginx.conf
 ```
 
 Add the following contents to the file.
