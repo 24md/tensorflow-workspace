@@ -142,8 +142,8 @@ Stop the `nginx` container.
 Swap the `nginx` configuration.
 
 ```console
-rm -f nginx/nginx.conf
-nano nginx.con
+# rm -f nginx/nginx.conf
+# nano nginx.con
 ```
 
 Add the following contents to the file.
@@ -209,7 +209,7 @@ http {
 Start the `nginx` container.
 
 ```console
-docker-compose start nginx
+# docker-compose start nginx
 ```
 
 Verify the deployment by opening your hostname in the web browser.
@@ -217,7 +217,7 @@ Verify the deployment by opening your hostname in the web browser.
 Fetch the Jupyter token from logs.
 
 ```console
-docker-compose logs jupyter
+# docker-compose logs jupyter
 ```
 
 Add a new entry in the `crontab`.
