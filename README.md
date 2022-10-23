@@ -1,6 +1,6 @@
-# Setup Tensorflow Workspace on a Vultr Cloud GPU Instance
+# Set Up Tensorflow Workspace on a Vultr Cloud GPU Instance
 
-The following are the prerequisites and the steps to setup tensorflow workspace on a Vultr Cloud GPU instance.
+The following are the prerequisites and the steps to set up Tensorflow Workspace on a Vultr Cloud GPU instance.
 
 ## Prerequisites
 
